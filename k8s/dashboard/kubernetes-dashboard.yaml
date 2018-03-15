@@ -48,7 +48,7 @@ spec:
         env:
         - name: KUBERNETES_SERVICE_HOST
           # Replace with actual k8master control-ip
-          value: 12.1.1.100
+          value: 10.201.0.45
 
         #livenessProbe:
         #  httpGet:
